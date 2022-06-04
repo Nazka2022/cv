@@ -1,6 +1,6 @@
 # Nazgul Eshimkojoeva
 
-![Alt-my_foto](my_foto.jpg)
+![Alt-my_foto](img/my_foto.jpg)
 
 ## Contacts
 
