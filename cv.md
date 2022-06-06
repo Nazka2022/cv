@@ -7,7 +7,7 @@
 - Location: Kyrgyzstan.Issikkul region
 - Phone: +996 708 208 500
 - Email: nazgul.eshimkojoeva.ph@gmail.com
-- GitHub: [](https://github.com/Nazka2022)
+- GitHub: [Nazka2022](https://github.com/Nazka2022)
 
 ## About Me
 
@@ -39,6 +39,6 @@ alert( result );
 
 ## Languages
 
-Kyrgyz- Native
-Russian- Fluent
-English- Beginner
+- Kyrgyz- Native
+- Russian- Fluent
+- English- Beginner
